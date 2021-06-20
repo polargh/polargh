@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ItzPolah/ItzPolah/3bc63e472cfc98dfb6c2e238a2d8c69d68dcc4b5/header.svg">
+  <img src="https://raw.githubusercontent.com/ItzPolah/ItzPolah/be0c25343e03395f26815cbb0a72912f86b796a0/header.svg">
 </h1>
 
 - Frontend:
