@@ -14,7 +14,5 @@
   - MySQL
   - MongoDB
 
-\
-
 ![](https://lanyard-profile-readme.vercel.app/api/645045981238394902)
 
