@@ -1,6 +1,6 @@
-<h1 align="left">
+/*<h1 align="left">
   <img src="https://raw.githubusercontent.com/ItzPolah/ItzPolah/main/header.svg" alt=" " />
-</h1>
+</h1>*/
 
 - Frontend:
   - React/Next.js
