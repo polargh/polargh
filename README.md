@@ -15,4 +15,4 @@
   - MongoDB
 
 \
-[![Discord Activity](https://lanyard-profile-readme.vercel.app/api/645045981238394902)](https://itspolar.dev/)
+![][Discord Activity](https://lanyard-profile-readme.vercel.app/api/645045981238394902)](https://itspolar.dev/)
