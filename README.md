@@ -1,4 +1,4 @@
-<h1 align="left">
+<h1 align="center">
   <img src="https://raw.githubusercontent.com/ItzPolah/ItzPolah/3bc63e472cfc98dfb6c2e238a2d8c69d68dcc4b5/header.svg">
 </h1>
 
