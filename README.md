@@ -7,8 +7,12 @@
   - Bootstrap
   - PHP & JS
   - Swift UI
+
+- Backend:
   - Java
   - Elixir
+  - MySQL
+  - MongoDB
 
 \
 [![Discord Activity](https://lanyard-profile-readme.vercel.app/api/645045981238394902)](https://discord.com/users/705665813994012695)
