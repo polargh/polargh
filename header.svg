@@ -3,6 +3,8 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 				
+				@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+				
 				@keyframes gradientText {
 				  0% {
 				    background-position: 0% 50%;
@@ -17,7 +19,8 @@
 				
 				h1 {
 				  font-family: 
-					Segoe UI', 
+					'Poppins',
+					'Segoe UI', 
 					'Roboto', 
 					'Oxygen', 
 					'Ubuntu', 
