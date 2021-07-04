@@ -2,7 +2,6 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-				@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 				
 				@keyframes gradientText {
 				  0% {
@@ -25,7 +24,6 @@
 					'Cantarell', 
 					'Fira Sans', 
 					'Droid Sans', 
-					'Poppins',
 					'Helvetica Neue', 
 					sans-serif;
 				  margin: 0;
