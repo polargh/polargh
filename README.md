@@ -5,11 +5,12 @@
 - Frontend:
   - React/Next.js
   - Bootstrap
-  - PHP & JS
+  - JS
   - Swift UI
 
 - Backend:
   - Java
+  - PHP
   - Elixir
   - MySQL
   - MongoDB
