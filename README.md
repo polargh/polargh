@@ -1,18 +1,19 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ItzPolah/ItzPolah/be0c25343e03395f26815cbb0a72912f86b796a0/header.svg">
-</h1>
+### Hey there 👋
 
-- Frontend:
-  - React/Next.js
-  - Bootstrap
-  - PHP & JS
-  - Swift UI
+I'm Polar, a software engineer based out of the United States
 
-- Backend:
-  - Java
-  - Elixir
-  - MySQL
-  - MongoDB
+## 🔭 Current
 
-![](https://lanyard-profile-readme.vercel.app/api/645045981238394902)
+I'm currently working on [Dreamers](https://dreamers.icu) - a 1:1 recreation of the walt disney world resort in minecraft, using revolutionary techniques in recource packs.
+
+## ⚡️ Experience
+
+I'm a full stack developer primarily experienced in frontend development, but highly experienced in Kotlin, Elixir, and Go.
+
+## 📫 Contact
+To contact me quickly and easily, [DM me on Twitter](https://twitter.com/itzpolah).
+
+Or you can also contact me by email:
+
+**Main Email**: io@itspolar.dev
 
